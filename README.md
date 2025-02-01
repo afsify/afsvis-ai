@@ -8,6 +8,14 @@ Afsvis AI is an advanced, offline, intelligent system that integrates **DeepSeek
 - Speech synthesis to read answers aloud using **pyttsx3**.
 - Interactive terminal-based interface.
 
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/afsify/afsvis-ai.git
+   ```
+
 ## Installation
 
 ### 1. Install Ollama
